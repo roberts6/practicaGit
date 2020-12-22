@@ -19,3 +19,5 @@ console.log("Probando por segunda vez git en usandoGit.js");
 
 // para subir los archivos del repositorio local al remoto necesitamos el comando git push origin master
 // no se puede subir el archivo hasta que todo este añadido (add) y comiteado (commit)
+
+// para descargar archivos desde el repositorio remoto al local (para tener la última versión del repositorio en caso de estar trabajando en equipo y alguien más haya hecho un cambio) vamos a ejecutar git clone. Este comando descarga una copia exacta de todos los archivos remotos en el repo local
