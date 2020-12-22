@@ -1,5 +1,7 @@
 console.log("Probando git en usandoGit.js");
 
+console.log("Probando por segunda vez git en usandoGit.js");
+
 // git init -> crea un repositorio local, que por supuesto aun está vacío
 
 //luego para establer usuario y correo hay que poner git config user.name/email "usuario/email"
