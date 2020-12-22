@@ -16,3 +16,6 @@ console.log("Probando por segunda vez git en usandoGit.js");
 
 
 // git commit -m "el mensaje que querramos poner" nos guarda el commit, o sea que es la marca de tiempo que necesitamos establecer para revisar futuros cambios
+
+// para subir los archivos del repositorio local al remoto necesitamos el comando git push origin master
+// no se puede subir el archivo hasta que todo este añadido (add) y comiteado (commit)
